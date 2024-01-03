@@ -1,0 +1,8 @@
+Unknowns
+
+Fade into scene - messages appear to player at certain times
+//checkpoints - resetting game - class called savestate.when public savestate .state is called, it records anything that's needed rotation, position, spline location, camera, enemies killed, health CUT - don't know how to do
+
+Knowns
+
+//Ultimate - every 4 turrets killed (collectible) CUT
